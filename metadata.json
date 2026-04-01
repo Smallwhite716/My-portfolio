@@ -1,0 +1,7 @@
+{
+  "name": "Lively Portfolio",
+  "description": "A cute and lively personal portfolio featuring 3D project stacks, a photography gallery, and an interactive travel map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
